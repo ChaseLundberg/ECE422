@@ -1,0 +1,7 @@
+Changelog version 1.0
+
+-Added UART.h and UART.c from previous labs (Lab 4 to be accurate)
+
+-Added Pragma files generated from MCC code
+
+-Created gpio.h and gpio.c that initialize the timer and LED GPIOs to recreate lab 1 and lab 2 for the new microcontroller chip.
